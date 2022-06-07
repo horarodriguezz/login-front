@@ -132,7 +132,7 @@ export const LoginForm = ({ setStep, setData }) => {
           </button>
         </div>
         <p className='mt-4 2xl:mt-6 text-center text-sm 2xl:text-xl'>
-          Don't have an account?{" "}
+          Don&#39;t have an account?{" "}
           <Link href='/register'>
             <a className='text-blue-600 underline underline-offset-1'>
               Sing up now
