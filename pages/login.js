@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { LoginForm } from "../components/loginForm";
-import RegisterApp from "../components/registerApp";
+import RegisterApp from "../components/RegisterApp";
 import VerifyMail from "../components/VerifyMail";
 import OTP from "../components/OTP";
 
