@@ -1,7 +1,7 @@
 import dayjs from "dayjs";
 import relativeTime from "dayjs/plugin/relativeTime";
 import { useState, useEffect } from "react";
-import Loader from "../components/loader";
+import Loader from "../components/Loader";
 import useUser from "../hooks/useUser";
 import authController from "../controllers/authController";
 import { useRouter } from "next/router";
